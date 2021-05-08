@@ -12,7 +12,7 @@ Calculating the total number of votes cast.
 The data includes three columns: ballot ID, county, and candidate name.
 
 ## Election Audit Results
-----------------------------------
+
 ![Results](https://github.com/craig-clemens/election-analysis/blob/main/Resources/Results.PNG)
 ----------------------------------
 At the county level 6.7% of the votes or 24,801 total votes were cast in Arapahoe; 10.5% of the votes or 38,855 total votes were cast in Jefferson; and 82.8% of the votes or 306,055 total were cast in Denver - making Denver the largest county by total votes cast. 
