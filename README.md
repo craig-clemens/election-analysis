@@ -16,7 +16,7 @@ Summarized results from the election can be viewed here:
 ----------------------------------
 ![Results](https://github.com/craig-clemens/election-analysis/blob/main/Resources/Results.PNG)
 ----------------------------------
-At the county level 6.7% of the votes or 24,801 total votes were cast in Arapahoe; 10.5% of the votes or 38,855 total votes were cast in Jefferson; and 82.8% of the votes or 306,055 total were cast in Denver - making Denver the largest county by total votes cast.
+At the county level 6.7% of the votes or 24,801 total votes were cast in Arapahoe; 10.5% of the votes or 38,855 total votes were cast in Jefferson; and 82.8% of the votes or 306,055 total were cast in Denver - making Denver the largest county by total votes cast. When it comes to the election itself Raymon Anthony Doane recieved 11,606 or 3.1% of the vote, Carles Casper Stockham recieved 85,213 or 23.0% of the vote, and Diana Degette won the election with 272,892 or 73.8% of the vote.
 
 ## Election Audit Summary
 Should an election commission look to further analyse voting history (or even intention) based on demographics, geography, income level, or education. Should the data be collected this script can be easily adjusted to further analyze those characteristics.
