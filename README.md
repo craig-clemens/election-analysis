@@ -12,8 +12,6 @@ Calculating the total number of votes cast.
 The data includes three columns: ballot ID, county, and candidate name.
 
 ## Election Audit Results
-
-Summarized results from the election can be viewed here:
 ----------------------------------
 ![Results](https://github.com/craig-clemens/election-analysis/blob/main/Resources/Results.PNG)
 ----------------------------------
